@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Hutch Games`,
-    description: `Website for Hutch Games`,
+    title: `Simpler Starter`,
+    description: `A simple starter for Gatsby that doesn't really enforce anything.`,
     author: `@chrish-d`,
   },
   plugins: [
