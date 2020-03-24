@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-tailwind2-emotion-styled-components",
+  "name": "simpler-starter",
   "private": true,
-  "description": "A (reasonably) unopinionated Gatsby starter, including; Tailwind 2",
+  "description": "A simple starter for Gatsby that doesn't really enforce anything.",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -19,7 +19,6 @@
     "gatsby-plugin-react-helmet": "^3.1.18",
     "gatsby-plugin-sharp": "^2.3.10",
     "gatsby-plugin-sitemap": "^2.3.1",
-    "gatsby-plugin-theme-ui": "^0.3.0",
     "gatsby-source-filesystem": "^2.1.43",
     "gatsby-transformer-sharp": "^2.3.9",
     "prop-types": "^15.7.2",
